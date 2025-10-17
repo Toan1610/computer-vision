@@ -1,14 +1,6 @@
-# Bỏ qua môi trường ảo
+clean-clone/
 .venv/
 venv/
 env/
-
-# Bỏ các file build / cache
 __pycache__/
 *.pyc
-
-# Bỏ các file lớn không cần thiết
-*.dat
-*.so
-git/ 
-git 
