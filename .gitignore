@@ -3,4 +3,6 @@ clean-clone/
 venv/
 env/
 __pycache__/
-*.pyc
+*.pyc.venv/ 
+__pycache__/ 
+*.pyc 
