@@ -1,0 +1,12 @@
+# Bỏ qua môi trường ảo
+.venv/
+venv/
+env/
+
+# Bỏ các file build / cache
+__pycache__/
+*.pyc
+
+# Bỏ các file lớn không cần thiết
+*.dat
+*.so
