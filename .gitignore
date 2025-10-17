@@ -10,3 +10,4 @@ __pycache__/
 # Bỏ các file lớn không cần thiết
 *.dat
 *.so
+git/ 
